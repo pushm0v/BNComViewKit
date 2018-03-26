@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/pushm0v/BNComViewKit"
-  s.license      = { :type => 'MIT' }
-  s.author             = { "Bherly Novrandy" => "pushm0v.development@gmail.com" }
+  s.license      = 'MIT'
+  s.author       = { "Bherly Novrandy" => "pushm0v.development@gmail.com" }
   s.platform     = :ios, "11.2"
 
   s.source       = { :git => "https://github.com/pushm0v/BNComViewKit.git", :tag => "#{s.version}" }
